@@ -12,5 +12,5 @@ elsif operation == "multiply"
   puts num_1.to_i * num_2.to_i
 else operation == "divide"
   puts num_1.to_i / num_2.to_i
-end 
+end
 
